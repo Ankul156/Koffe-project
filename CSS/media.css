@@ -1,0 +1,5 @@
+@media (min-width: 0px) and (max-width: 576px) {
+    .main-heading {
+        font-size: 35px !important;
+    }
+}
